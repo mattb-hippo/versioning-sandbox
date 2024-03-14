@@ -2,3 +2,5 @@
  To play with semantic versioning
 
 Test
+
+This is a bugfix!
