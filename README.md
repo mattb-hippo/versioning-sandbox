@@ -5,3 +5,5 @@ Test
 
 This is a bugfix!
 This is another bugfix.
+
+RELEASE
